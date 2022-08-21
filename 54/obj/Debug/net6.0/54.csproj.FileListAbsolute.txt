@@ -1,0 +1,15 @@
+C:\Users\Acer\OneDrive\Desktop\Семинар 8\Домашка\54\bin\Debug\net6.0\54.exe
+C:\Users\Acer\OneDrive\Desktop\Семинар 8\Домашка\54\bin\Debug\net6.0\54.deps.json
+C:\Users\Acer\OneDrive\Desktop\Семинар 8\Домашка\54\bin\Debug\net6.0\54.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\Семинар 8\Домашка\54\bin\Debug\net6.0\54.dll
+C:\Users\Acer\OneDrive\Desktop\Семинар 8\Домашка\54\bin\Debug\net6.0\54.pdb
+C:\Users\Acer\OneDrive\Desktop\Семинар 8\Домашка\54\obj\Debug\net6.0\54.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\Семинар 8\Домашка\54\obj\Debug\net6.0\54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\Семинар 8\Домашка\54\obj\Debug\net6.0\54.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\Семинар 8\Домашка\54\obj\Debug\net6.0\54.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\Семинар 8\Домашка\54\obj\Debug\net6.0\54.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\Семинар 8\Домашка\54\obj\Debug\net6.0\54.dll
+C:\Users\Acer\OneDrive\Desktop\Семинар 8\Домашка\54\obj\Debug\net6.0\refint\54.dll
+C:\Users\Acer\OneDrive\Desktop\Семинар 8\Домашка\54\obj\Debug\net6.0\54.pdb
+C:\Users\Acer\OneDrive\Desktop\Семинар 8\Домашка\54\obj\Debug\net6.0\54.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Desktop\Семинар 8\Домашка\54\obj\Debug\net6.0\ref\54.dll
